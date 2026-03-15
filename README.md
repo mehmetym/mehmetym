@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=>_+Merhaba,+Ben+Mehmet+Yıldırım;>_+Computer+Engineering+Student+@+DPU;>_+Cybersecurity+%26+Flutter+Developer;>_+Building+Secure+%26+Modern+Systems_" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Merhaba,+Ben+Mehmet+Yildirim;Computer+Engineering+@+DPU;Cybersecurity+%26+Flutter+Dev;Building+Secure+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 ### 👨‍💻 Hakkımda
-
-Dumlupınar Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 
 * 👨‍💻 Dumlupınar Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.
 * 🛡️ Siber güvenlik prensiplerini merkeze alarak güvenli sistem mimarileri tasarlıyorum.
@@ -13,7 +13,9 @@ Dumlupınar Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 * 🎯 Amacım modern, ölçeklenebilir ve güvenli dijital ekosistemler inşa etmek.
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-y%C4%B1ld%C4%B1r%C4%B1m-0380a6194/)
+  <a href="https://www.linkedin.com/in/mehmet-yıldırım-0380a6194/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 <br />
@@ -23,23 +25,30 @@ Dumlupınar Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 <div align="center">
 
 ### 📱 Mobil & Frontend
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,js,ts,swift,kotlin" />
+</a>
 
-### ⚙️ Backend & Çekirdek Diller
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+### ⚙️ Çekirdek Diller & Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,go,rust,php,ruby,scala,r" />
+</a>
 
 ### ☁️ Cloud, DevOps & Sistem
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" /> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,azure,gcp,vercel,linux" />
+</a>
 
 ### 🎨 Tasarım & Araçlar
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,xd,sketch,ps,ai" />
+</a>
 
 </div>
 
 <br />
 
 ## 🚀 Öne Çıkan Projeler & "Case Studies"
-*(Detaylar için başlıklara tıklayın)*
 
 <details>
   <summary><b>💳 PROSPECT | FinTech Altyapısı ve Güvenli Veri Akışı</b></summary>
@@ -73,7 +82,7 @@ Dumlupınar Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 
 ---
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=mehmetym&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=mehmetym&icon=0&color=0" alt="Visit Count" />
   <br/>
   <i>Güvenliği kodlayan, geleceği tasarlayan mühendislik vizyonu.</i>
 </div>
