@@ -4,7 +4,7 @@
   </a>
 </div>
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 Hakkımda 
 
 * 🛡️ Siber güvenlik prensiplerini merkeze alarak güvenli sistem mimarileri tasarlıyorum.
 * 📱 Flutter ile yüksek performanslı cross-platform mobil çözümler üretiyorum.
