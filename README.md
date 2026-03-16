@@ -56,7 +56,7 @@
   <br/><br/>
   <b>Kazanımlar:</b> Ölçeklenebilir mimari tasarımı, güvenlik protokolleri entegrasyonu ve teknik sunum becerileri.
 </details>
-
+ 
 <details>
   <summary><b>🏛️ Aizanoi Before/After Image Slider | İnteraktif UI/UX</b></summary>
   <br/>
