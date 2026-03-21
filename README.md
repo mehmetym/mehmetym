@@ -46,7 +46,6 @@
 </div>
 
 <br />
-
 ## 🚀 Öne Çıkan Projeler & "Case Studies"
 
 <details>
