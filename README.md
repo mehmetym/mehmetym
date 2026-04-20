@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Merhaba,+Ben+Mehmet+YILDIRIM;Computer+Engineering+@+DPU;Cybersecurity+%26+Flutter+Dev;Building+Secure+Systems" alt="Typing SVG" />
   </a>
 </div>
- 
+
+
 ### 👨‍💻 Hakkımda
 
 * 🛡️ Siber güvenlik prensiplerini merkeze alarak güvenli sistem mimarileri tasarlıyorum.
