@@ -5,7 +5,7 @@
 
 </div>
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 Hakkımda 
 
 
 * 🛡️ Siber güvenlik prensiplerini merkeze alarak güvenli sistem mimarileri tasarlıyorum.
