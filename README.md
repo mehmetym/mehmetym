@@ -7,6 +7,7 @@
 
 ### 👨‍💻 Hakkımda
 
+
 * 🛡️ Siber güvenlik prensiplerini merkeze alarak güvenli sistem mimarileri tasarlıyorum.
 * 📱 Flutter ile yüksek performanslı cross-platform mobil çözümler üretiyorum.
 * 🚀 PROSPECT (FinTech), Aizanoi (UI/UX) ve Pintiu projelerinde yer aldım.
